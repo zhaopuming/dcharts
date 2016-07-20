@@ -1,0 +1,12 @@
+{
+    "name": "dcharts",
+    "authors": [
+        "zhaopuming"
+    ],
+    "description": "Charting library in D",
+    "copyright": "Copyright © 2016, Develop",
+    "license": "MIT",
+    "dependencies": {
+        "dlangui": "~>0.8.36"
+    }
+}
